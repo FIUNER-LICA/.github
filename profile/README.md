@@ -1,5 +1,5 @@
 
-# Hola 👋, somos el equipo LICA
+# Hola 👋, somos el equipo del LICA
 El Laboratorio de Informática y Computación Aplicada (LICA) de la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FI-UNER) es un grupo de docentes universitarios, profesionales y estudiantes que forman de lo que en la UNER se denomina un núcleo de Investigación, Desarrollo e Innovación (núcleo de I+D+i).
 
 # Objetivo
